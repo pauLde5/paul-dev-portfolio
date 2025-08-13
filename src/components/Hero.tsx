@@ -42,7 +42,7 @@ const Hero = () => {
 
           {/* Name */}
           <h1 className="text-6xl md:text-8xl font-bold text-gradient fade-in-up">
-            Alex Chen
+            Paul
           </h1>
 
           {/* Title */}

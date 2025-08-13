@@ -37,7 +37,7 @@ const Index = () => {
               </a>
             </div>
             <p className="text-sm text-muted-foreground">
-              © 2024 Alex Chen. Built with React, TypeScript, and lots of ☕
+              © 2024 Paul. Built with React, TypeScript, and lots of ☕
             </p>
           </div>
         </div>
